@@ -1,7 +1,9 @@
 Group Number 27  
 Members :  
-#1 Slimani 	Imad Zakaria El-haj  
-#2 AitYahia 	Sarah Massylia    
-#3 Barkou 	Abderrahmane  
-#4 Kennouche 	Mouad  
-#5 Admane  	AbdelMalek  
+| Familly Name  |     First Name       | GitHub username |  
+| ------------- | -------------------- | --------------- |  
+|    Slimani    | Imad Zakaria El-haj  |   Imadzakxy     |  
+|    AitYahia   |    Sarah Massylia    |    unknown      |  
+|   Kennouche   |        Mouad         |    MouadKe      |
+|    Barkou     |     Abderrahmane     |    Imaaann      |
+|    Admane     |     AbdelMalek       |    unknown      |  
