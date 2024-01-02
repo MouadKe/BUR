@@ -3,7 +3,7 @@ Members :
 | Familly Name  |     First Name       | GitHub username |  
 | ------------- | -------------------- | --------------- |  
 |    Slimani    | Imad Zakaria El-haj  |   Imadzakxy     |  
-|    AitYahia   |    Sarah Massylia    |    unknown      |  
+|    AitYahia   |    Sarah Massylia    |  massulya-sarah |  
 |   Kennouche   |        Mouad         |    MouadKe      |
 |    Barkou     |     Abderrahmane     |    Imaaann      |
-|    Admane     |     AbdelMalek       |    unknown      |  
+|    Admane     |     AbdelMalek       |    abd0gg       |  
